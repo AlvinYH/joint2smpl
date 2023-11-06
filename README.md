@@ -1,5 +1,5 @@
 # joints2smpl
-fit SMPL model using 3D joints
+fit SMPL model using 3D joints (adapted from https://github.com/wangsen1312/joints2smpl)
 
 ## Prerequisites
 We have tested the code on Ubuntu 18.04/20.04 with CUDA 10.2/11.3
